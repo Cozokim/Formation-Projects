@@ -4,4 +4,4 @@ Hi there !
 
 Here is a list of all the projects i did during my formation
 
-Don't hesitate to check them out !
+All of them include a presentation i did (pptx). Don't hesitate to check them out !

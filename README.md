@@ -4,7 +4,7 @@ Hi there !
 
 Here is a list of all the projects i did during my Openclassrooms formation, in collaboration with Centrale Supelec and Microsoft. Details can be found [here](https://openclassrooms.com/fr/paths/188-ingenieur-ia).
 
-:computer: Skills i developed during this formation  
+# :computer: Skills i developed during this formation  
 
 - :snake: Programming language(s): Python
 - :hammer_and_wrench: Development tools : Jupyter Notebook (Anaconda), Google Colaboratory, Visual Studio Code, Github
@@ -16,4 +16,4 @@ Here is a list of all the projects i did during my Openclassrooms formation, in 
 - :card_file_box: Database : SQL
 
 
-All of them include a presentation i did (pptx). Don't hesitate to check them out !
+Each of them include a presentation i did (pptx). Don't hesitate to check them out !

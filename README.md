@@ -6,7 +6,7 @@ Here is a list of all the projects i did during my Openclassrooms formation, in 
 
 # :computer: Skills I developed during this formation  
 
-- :snake: Programming language(s): Python
+- :snake: Programming languages: Python,R
 - :hammer_and_wrench: Development tools : Jupyter Notebook (Anaconda), Google Colaboratory, Visual Studio Code, Github
 - :man_scientist:	Data Science: pandas, numpy, scikit-learn, tensorflow, keras
 - :chart_with_upwards_trend:	Times series : sktime, darts
